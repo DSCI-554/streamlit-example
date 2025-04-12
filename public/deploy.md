@@ -7,9 +7,7 @@ This document provides step-by-step instructions for deploying a Streamlit app.
 1. **GitHub Account**: You need a GitHub account and a repository to store your code.
 2. **Streamlit Community Cloud Account** (optional): Streamlit provides a free cloud service specifically for deploying Streamlit apps.
 
----
-
-## Option 1: Deploying on Streamlit Community Cloud
+## Deploying on Streamlit Community Cloud
 
 Streamlit Community Cloud is a free and easy way to deploy Streamlit apps.
 
@@ -27,7 +25,7 @@ Streamlit Community Cloud is a free and easy way to deploy Streamlit apps.
    - Select the GitHub repository and branch containing your Streamlit app.
    - Specify the path to your Streamlit app file (e.g., `app.py`).
    - Click **Deploy**. Streamlit will automatically install dependencies and start your app.
-4. **Access Your App**:
 
+4. **Access Your App**:
    - Once deployed, you’ll get a URL like `https://share.streamlit.io/<username>/<repository-name>/<branch>`.
    - Share this URL to allow others to access your app.
